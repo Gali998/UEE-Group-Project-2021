@@ -26,7 +26,7 @@ class _ChatPageState extends State<ChatPage> {
         imageURL: "images/userImage4.jpeg",
         time: "28 Mar"),
     ChatUsers(name: "Debra Hawkins",
-        messageText: "Thankyou, It's awesome",
+        messageText: "Thank you, It's awesome",
         imageURL: "images/userImage5.jpeg",
         time: "23 Mar"),
     ChatUsers(name: "Jacob Pena",
