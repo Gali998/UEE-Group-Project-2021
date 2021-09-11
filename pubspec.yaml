@@ -45,16 +45,49 @@ flutter_launcher_name:
   name: "Line Lite"
 # The following section is specific to Flutter.
 flutter:
-
+  assets:
+     - assets/images/
+     - assets/images/Backstreet Girls.jpg
+     - assets/images/Family Club.jpg
+     - assets/images/Funny Folk.jpg
+     - assets/images/Girls on Fire.jpg
+     - assets/images/Gossip News.jpg
+     - assets/images/man 1.jpg
+     - assets/images/man 2.jpg
+     - assets/images/man 3.jpg
+     - assets/images/man 4.jpg
+     - assets/images/Market Yard.jpg
+     - assets/images/My Family.png
+     - assets/images/Pen Pals.jpg
+     - assets/images/woman 1.jpg
+     - assets/images/woman 2.jpg
+     - assets/images/woman 3.jpg
+     - assets/images/woman 4.jpg
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+#   assets:
+#      - images/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+#     - images/Backstreet Girls.jpg
+#     - images/Family Club.jpg
+#     - images/Funny Folk.jpg
+#     - images/Girls on Fire.jpg
+#     - images/Gossip News.jpg
+#     - images/man 1.jpg
+#     - images/man 2.jpg
+#     - images/man 3.jpg
+#     - images/Market Yard.jpg
+#     - images/My Family.jpg
+#     - images/Pen Pals.jpg
+#     - images/woman 1.jpg
+#     - images/woman 2.jpg
+#     - images/woman 3.jpg
+#     - images/woman 4.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

@@ -29,7 +29,7 @@ class _GroupConversationListState extends State<GroupConversationList> {
               child: Row(
                 children: <Widget>[
                   CircleAvatar(
-                    backgroundImage: NetworkImage(widget.imageUrl),
+                    backgroundImage: AssetImage(widget.imageUrl),
                     maxRadius: 30,
                   ),
                   SizedBox(width: 16,),
